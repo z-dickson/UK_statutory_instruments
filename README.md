@@ -1,2 +1,2 @@
 # UK_statutory_instruments
-A dataset of the three UK devolved nations' statutory instruments 2000-2022
+A dataset of statutory instruments from the Scottish Parliament and the Welsh Senedd 2000-2022
